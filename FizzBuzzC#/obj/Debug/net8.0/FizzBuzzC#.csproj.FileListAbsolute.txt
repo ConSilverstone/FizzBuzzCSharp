@@ -1,0 +1,14 @@
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\bin\Debug\net8.0\FizzBuzzC#.exe
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\bin\Debug\net8.0\FizzBuzzC#.deps.json
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\bin\Debug\net8.0\FizzBuzzC#.runtimeconfig.json
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\bin\Debug\net8.0\FizzBuzzC#.dll
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\bin\Debug\net8.0\FizzBuzzC#.pdb
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\FizzBuzzC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\FizzBuzzC#.AssemblyInfoInputs.cache
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\FizzBuzzC#.AssemblyInfo.cs
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\FizzBuzzC#.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\FizzBuzzC#.dll
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\refint\FizzBuzzC#.dll
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\FizzBuzzC#.pdb
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\FizzBuzzC#.genruntimeconfig.cache
+C:\Users\Connor\source\repos\FizzBuzzC#\FizzBuzzC#\obj\Debug\net8.0\ref\FizzBuzzC#.dll
