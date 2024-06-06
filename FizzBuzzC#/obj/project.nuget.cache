@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F7ociepBi4+eC6vHQM/6+yehydsbDvYQAZw/g0gRHwr4LkGJb9nIUB6arO+9KaJF8L0aXJNeA1JIRza6mLWc7A==",
+  "dgSpecHash": "9gDsDXp0uITopGl1Ak63kuvchMD152Sd1MXCsMj4cvy/m+IQo/N34/0m/BioL/jEj09GJ5TAgtWM0J3jkb+PRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzC#\\FizzBuzzC#.csproj",
+  "projectFilePath": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzCSharp\\FizzBuzzC#\\FizzBuzzC#.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

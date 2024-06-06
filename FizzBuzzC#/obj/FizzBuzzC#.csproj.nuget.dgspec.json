@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzC#\\FizzBuzzC#.csproj": {}
+    "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzCSharp\\FizzBuzzC#\\FizzBuzzC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzC#\\FizzBuzzC#.csproj": {
+    "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzCSharp\\FizzBuzzC#\\FizzBuzzC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzC#\\FizzBuzzC#.csproj",
+        "projectUniqueName": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzCSharp\\FizzBuzzC#\\FizzBuzzC#.csproj",
         "projectName": "FizzBuzzC#",
-        "projectPath": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzC#\\FizzBuzzC#.csproj",
+        "projectPath": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzCSharp\\FizzBuzzC#\\FizzBuzzC#.csproj",
         "packagesPath": "C:\\Users\\Connor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzC#\\obj\\",
+        "outputPath": "C:\\Users\\Connor\\source\\repos\\FizzBuzzC#\\FizzBuzzCSharp\\FizzBuzzC#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

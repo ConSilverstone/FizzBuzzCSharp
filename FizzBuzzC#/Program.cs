@@ -29,6 +29,9 @@ namespace FizzBuzz
                     Console.WriteLine(i); // Otherwise just print the number
                 }
             }
+
+            Console.WriteLine("Please press any key to exit");
+            Console.ReadKey();
         }
     }
 }
